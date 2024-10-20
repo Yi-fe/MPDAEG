@@ -1,0 +1,1 @@
+Samples in this dataset were collected from VirusShare, spanning the years 2018 to 2023. The types of the malware samples were determined by Microsoft Defender. All samples were successfully detected by the EMBER and Malconv detectors (i.e., the malicious scores were all above the threshold).
